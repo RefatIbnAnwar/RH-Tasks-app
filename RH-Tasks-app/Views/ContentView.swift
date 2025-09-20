@@ -55,7 +55,7 @@ struct ContentView: View {
                             .padding(.vertical, 8)
                             .background(
                                 LinearGradient(
-                                    gradient: Gradient(colors: [Color.purple, Color.blue]),
+                                    gradient: Gradient(colors: [Color.green, Color.blue]),
                                     startPoint: .leading,
                                     endPoint: .trailing
                                 )

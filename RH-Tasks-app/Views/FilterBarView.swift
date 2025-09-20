@@ -30,7 +30,7 @@ struct FilterBarView: View {
                             selectedFilter == filter ?
                             AnyView(
                                 LinearGradient(
-                                    gradient: Gradient(colors: [Color.purple, Color.blue]),
+                                    gradient: Gradient(colors: [Color.green, Color.blue]),
                                     startPoint: .leading,
                                     endPoint: .trailing
                                 )

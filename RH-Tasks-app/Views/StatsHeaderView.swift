@@ -23,7 +23,7 @@ struct StatsHeaderView: View {
         .frame(maxWidth: .infinity)
         .background(
             LinearGradient(
-                gradient: Gradient(colors: [Color.purple.opacity(0.8), Color.blue.opacity(0.8)]),
+                gradient: Gradient(colors: [Color.green.opacity(0.8), Color.blue.opacity(0.8)]),
                 startPoint: .topLeading,
                 endPoint: .bottomTrailing
             )
